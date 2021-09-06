@@ -216,3 +216,5 @@ npx husky add .husky/commit-msg 'npx --no-install commitlint --edit "$1"'
   "types": "./dist/es/index.d.ts",
 }
 ```
+
+- 可以使用 ​git commit --no-verify​ 跳过代码校验
