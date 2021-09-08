@@ -32,6 +32,8 @@ module.exports = {
     'no-plusplus': 'off',
     'no-underscore-dangle': 'off',
     'no-use-before-define': 'off',
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": ["off"]
   }
   
 };
